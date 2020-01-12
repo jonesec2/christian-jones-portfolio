@@ -1,13 +1,32 @@
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). 
+
+I used it to create my own Portfolio with a few changes and addtions.
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](example.JPG)](https://jonesec2.github.io/christian-jones-portfolio/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://jonesec2.github.io/christian-jones-portfolio/)**
 
+## Contact
+This has my name, and contact information, as well as links to my socials and resume.
+
+## Examples
+This section shows examples of my coding
+
+## Experience
+An abridged version of the experience located in my resume.
+
+## Education
+An abridged version of the education located in my resume.
+
+## Skills
+Visually appealing representation of the coding languages and technologies I use.
+
+## Interests
+An abridged and fun description of the things I enjoy outside of work.
 
 
 ## About
