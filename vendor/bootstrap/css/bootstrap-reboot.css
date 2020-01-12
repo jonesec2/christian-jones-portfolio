@@ -171,7 +171,7 @@ img {
 }
 
 svg {
-  overflow: hidden;
+  overflow: visible;
   vertical-align: middle;
 }
 

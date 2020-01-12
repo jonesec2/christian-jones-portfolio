@@ -132,6 +132,7 @@ p.lead {
     display: block;
   }
 }
+.examples{display: block!important}
 
 section.resume-section {
   padding-top: 5rem !important;
