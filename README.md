@@ -6,7 +6,7 @@ I used it to create my own Portfolio with a few changes and addtions.
 
 ## Preview
 
-[![Resume Preview](example.JPG)](https://jonesec2.github.io/christian-jones-portfolio/)
+[![Resume Preview](img/examples.JPG)](https://jonesec2.github.io/christian-jones-portfolio/)
 
 **[View Live Preview](https://jonesec2.github.io/christian-jones-portfolio/)**
 
